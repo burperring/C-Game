@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\USER\Desktop\프로그램\C++ 유튜브\35강 RPG게임 함수숙제\35강 RPG게임 함수숙제\main.cpp(599,17): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\프로그램\C++ 유튜브\35강 RPG게임 함수숙제\35강 RPG게임 함수숙제\main.cpp(600,18): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  35강 RPG게임 함수숙제.vcxproj -> C:\Users\USER\Desktop\프로그램\C++ 유튜브\35강 RPG게임 함수숙제\Debug\35강 RPG게임 함수숙제.exe

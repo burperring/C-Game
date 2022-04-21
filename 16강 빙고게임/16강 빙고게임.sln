@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16강 빙고게임", "16강 빙고게임\16강 빙고게임.vcxproj", "{056FB19E-7812-4B40-A723-88BB40F34D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{056FB19E-7812-4B40-A723-88BB40F34D4B}.Debug|x64.ActiveCfg = Debug|x64
+		{056FB19E-7812-4B40-A723-88BB40F34D4B}.Debug|x64.Build.0 = Debug|x64
+		{056FB19E-7812-4B40-A723-88BB40F34D4B}.Debug|x86.ActiveCfg = Debug|Win32
+		{056FB19E-7812-4B40-A723-88BB40F34D4B}.Debug|x86.Build.0 = Debug|Win32
+		{056FB19E-7812-4B40-A723-88BB40F34D4B}.Release|x64.ActiveCfg = Release|x64
+		{056FB19E-7812-4B40-A723-88BB40F34D4B}.Release|x64.Build.0 = Release|x64
+		{056FB19E-7812-4B40-A723-88BB40F34D4B}.Release|x86.ActiveCfg = Release|Win32
+		{056FB19E-7812-4B40-A723-88BB40F34D4B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F51D59C-76C7-4B7E-B2C5-C0AD92E1440E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "31강 포인터와 배열, void포인터, 구조체포인터", "31강 포인터와 배열, void포인터, 구조체포인터\31강 포인터와 배열, void포인터, 구조체포인터.vcxproj", "{B2347DFE-C216-4BC7-8D01-77212543601F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2347DFE-C216-4BC7-8D01-77212543601F}.Debug|x64.ActiveCfg = Debug|x64
+		{B2347DFE-C216-4BC7-8D01-77212543601F}.Debug|x64.Build.0 = Debug|x64
+		{B2347DFE-C216-4BC7-8D01-77212543601F}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2347DFE-C216-4BC7-8D01-77212543601F}.Debug|x86.Build.0 = Debug|Win32
+		{B2347DFE-C216-4BC7-8D01-77212543601F}.Release|x64.ActiveCfg = Release|x64
+		{B2347DFE-C216-4BC7-8D01-77212543601F}.Release|x64.Build.0 = Release|x64
+		{B2347DFE-C216-4BC7-8D01-77212543601F}.Release|x86.ActiveCfg = Release|Win32
+		{B2347DFE-C216-4BC7-8D01-77212543601F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60681019-54D6-4783-875B-C69AB36AF1E0}
+	EndGlobalSection
+EndGlobal
